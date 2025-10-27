@@ -86,6 +86,7 @@ Build a Streamlit app for real-time customer segmentation visualization.
 📂 Project Link
 
 👉 Click here to view the full project on GitHub
+https://github.com/Fajlurrahman219/Customer-Segmentation-using-K-Means-Clustering.ipynb/tree/main
 
 
 👨‍💻 About Me
